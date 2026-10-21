@@ -1,5 +1,5 @@
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "testcase": "node tests/test.js"
+{
+  "scripts": {
+    "start": "react-scripts start"
+  }
 }
